@@ -1,4 +1,9 @@
 ## nlp_textclasification
+1.分词
+2.提特征
+3.加权表示
+4.训练模型
+5.预测
 模型直接调用了sklearn中的模型,没有调参
 卡方检验选择特征时候:
 Bayesian:
